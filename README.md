@@ -1,3 +1,3 @@
 # Documentation
 
-Full documentation is available at https://www.roundthecode.com/code-examples/file-logger
+Full documentation is available at https://www.roundthecode.com/code-examples/create-your-own-file-logger
